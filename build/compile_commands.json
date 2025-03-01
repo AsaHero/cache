@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/asad/cpp/cache/build/src",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -DFMT_SHARED -I/home/asad/cpp/cache/include -I/home/asad/cpp/cache/src -g -o CMakeFiles/cache.dir/main.cpp.o -c /home/asad/cpp/cache/src/main.cpp",
+  "file": "/home/asad/cpp/cache/src/main.cpp",
+  "output": "src/CMakeFiles/cache.dir/main.cpp.o"
+},
+{
+  "directory": "/home/asad/cpp/cache/build/src",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -DFMT_SHARED -I/home/asad/cpp/cache/include -I/home/asad/cpp/cache/src -g -o CMakeFiles/cache.dir/api/handler.cpp.o -c /home/asad/cpp/cache/src/api/handler.cpp",
+  "file": "/home/asad/cpp/cache/src/api/handler.cpp",
+  "output": "src/CMakeFiles/cache.dir/api/handler.cpp.o"
+},
+{
+  "directory": "/home/asad/cpp/cache/build/src",
+  "command": "/usr/bin/g++ -DASIO_STANDALONE -DFMT_SHARED -I/home/asad/cpp/cache/include -I/home/asad/cpp/cache/src -g -o CMakeFiles/cache.dir/api/server.cpp.o -c /home/asad/cpp/cache/src/api/server.cpp",
+  "file": "/home/asad/cpp/cache/src/api/server.cpp",
+  "output": "src/CMakeFiles/cache.dir/api/server.cpp.o"
+}
+]

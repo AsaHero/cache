@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cache.dir/main.cpp.o CMakeFiles/cache.dir/api/handler.cpp.o CMakeFiles/cache.dir/api/server.cpp.o -o cache  /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 
